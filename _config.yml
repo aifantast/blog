@@ -24,6 +24,12 @@ url: "http://aifantast.github.io" # the base hostname & protocol for your site, 
 twitter_username:
 github_username:  aifantast
 
+# Author
+author:
+  name:         Teddy Bear
+  url:         
+  email:        phunghuutai421998@gmail.com
+  
 # Build settings
 markdown: kramdown
 remote_theme: aifantast/tale
