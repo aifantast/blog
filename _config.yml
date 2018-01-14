@@ -32,7 +32,7 @@ author:
   
 # Build settings
 markdown: kramdown
-remote_theme: aifantast/tale
+remote_theme: chesterhow/tale
 plugins:
   - jekyll-feed
 
