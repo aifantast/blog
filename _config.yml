@@ -32,7 +32,7 @@ author:
   
 # Build settings
 markdown: kramdown
-remote_theme: aifantast/chalk
+remote_theme: aifantast/daktilo
 plugins:
   - jekyll-feed
 
